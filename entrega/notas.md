@@ -1,13 +1,11 @@
 # 🗒️ Registro de Trabajo en Clase - Taller 5: Evaluación de Seguridad con STRIDE
 
 ## 📆 Fecha de la sesión
-_Por confirmar por el equipo (fecha de la sesión de clase en que se trabajó este taller)._
+Sabado 05 de septiembre de 2026
 
 ## 👥 Integrantes presentes
 - Juan David Orozco Rodríguez
-- [Nombre del compañero/a] Muñoz
-
-> ⚠️ Ajustar el nombre completo del segundo integrante antes de subir la entrega.
+- Nicolas Esteban Muñoz Sendoya
 
 ## 🧠 Actividades realizadas en clase
 
@@ -91,7 +89,6 @@ La guía pide completar al menos uno de los 4 retos de Juice Shop y relacionarlo
 |----------------|-------------|----------------|
 | Ejecutar y documentar el Reto 2 de Juice Shop (evidencia/captura) | Por asignar | Antes de la entrega de Parte 1 |
 | Revisar checklist de autoevaluación (sección 7 de la guía) | Juan David Orozco Rodríguez | Antes de la entrega de Parte 1 |
-| Iniciar reconocimiento pasivo y tabla del cliente real (Parte 2) | Equipo completo | Al iniciar Parte 2, en otro repositorio |
 
 ---
 
