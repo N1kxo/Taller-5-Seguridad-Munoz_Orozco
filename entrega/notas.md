@@ -83,13 +83,5 @@ La guía pide completar al menos uno de los 4 retos de Juice Shop y relacionarlo
   3. Confirmar que la compra se procesa con el precio manipulado.
   4. Tomar una captura de pantalla como evidencia y anotar aquí el resultado (qué control faltaba, según la guía: *"el servidor confía en el precio que envía el cliente"*).
 
-## 🔁 Tareas definidas para complementar el taller
-
-| Tarea asignada | Responsable | Fecha estimada |
-|----------------|-------------|----------------|
-| Ejecutar y documentar el Reto 2 de Juice Shop (evidencia/captura) | Por asignar | Antes de la entrega de Parte 1 |
-| Revisar checklist de autoevaluación (sección 7 de la guía) | Juan David Orozco Rodríguez | Antes de la entrega de Parte 1 |
-
----
 
 _Este documento resume el trabajo colaborativo realizado durante la sesión del Taller 5 (Parte 1) en el curso Arquitectura Empresarial (AREM) - Universidad de La Sabana._
